@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  PerformanceSummary.cpp
+c:\users\tdg\source\repos\performancesummary\performancesummary\performancesummary.cpp(154): warning C4244: “初始化”: 从“ULONGLONG”转换到“double”，可能丢失数据
+    正在创建库 C:\Users\TDG\source\repos\PerformanceSummary\Release\perform_summary_sdk.lib 和对象 C:\Users\TDG\source\repos\PerformanceSummary\Release\perform_summary_sdk.exp
+  正在生成代码
+  All 190 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  PerformanceSummary.vcxproj -> C:\Users\TDG\source\repos\PerformanceSummary\Release\perform_summary_sdk.dll
